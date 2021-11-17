@@ -306,3 +306,75 @@ Received Import Request.
   path: Assets/Mains/MainsAnimees/Ressources/Animations/r_hand_hold_generic_anim.fbx
   artifactKey: Guid(6c41a6e223fece0458162624394578d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Mains/MainsAnimees/Ressources/Animations/r_hand_hold_generic_anim.fbx using Guid(6c41a6e223fece0458162624394578d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85f4e3f0264e2ef3bbcea345fc8c6755') in 0.012178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 240.357695 seconds.
+  path: Assets/New Lighting Settings.lighting
+  artifactKey: Guid(49303dcad1c4d98478b118971177132d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Lighting Settings.lighting using Guid(49303dcad1c4d98478b118971177132d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0001ecdc5538dba980239c943eac7519') in 0.011310 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.940235 seconds.
+  path: Assets/Mains/mainsBase/materiaux/Watch.mat
+  artifactKey: Guid(3105b294dcf151c4abe0f96fcff6b5b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mains/mainsBase/materiaux/Watch.mat using Guid(3105b294dcf151c4abe0f96fcff6b5b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e60ea14fccc0e206916715bcf20ffa1') in 0.026580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.310372 seconds.
+  path: Assets/avatar/Avatars/assets avatars/Materials/Hair5.mat
+  artifactKey: Guid(828f81e69d0e726439c61bf1937e88da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/avatar/Avatars/assets avatars/Materials/Hair5.mat using Guid(828f81e69d0e726439c61bf1937e88da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf89f7f77d4e44f17f4c33c41e479a8') in 0.023881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Mains/MainsAnimees/Ressources/Materials/Hands_solid.mat
+  artifactKey: Guid(3637b758ff163493f8bb8b6d7e96d7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mains/MainsAnimees/Ressources/Materials/Hands_solid.mat using Guid(3637b758ff163493f8bb8b6d7e96d7ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e5a9b33aed180e9ef082f40750cf259') in 0.021769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.035689 seconds.
+  path: Assets/avatar/Avatars/assets avatars/Materials/Hair1.mat
+  artifactKey: Guid(a4875bd4df00db3468a57c4781de45b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/avatar/Avatars/assets avatars/Materials/Hair1.mat using Guid(a4875bd4df00db3468a57c4781de45b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2850e8cb62d9fca71a4e234c89780a05') in 0.020149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/avatar/Avatars/assets avatars/Materials/Hair4.mat
+  artifactKey: Guid(2c4d0092002491f4886c9d6dd63da6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/avatar/Avatars/assets avatars/Materials/Hair4.mat using Guid(2c4d0092002491f4886c9d6dd63da6d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4238c4244bfa3db7b2ac83b97c2f5bf9') in 0.023118 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/avatar/Avatars/assets avatars/Materials/Hair3.mat
+  artifactKey: Guid(f9048364d0ddad2429aa3710bbb91251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/avatar/Avatars/assets avatars/Materials/Hair3.mat using Guid(f9048364d0ddad2429aa3710bbb91251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b341bead11b4801dcdb88baa4edcb089') in 0.023436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/avatar/Avatars/assets avatars/Materials/Hair2sad.mat
+  artifactKey: Guid(486b4088719f386468bbbb6704828618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/avatar/Avatars/assets avatars/Materials/Hair2sad.mat using Guid(486b4088719f386468bbbb6704828618) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71fdcb657cfbfdbdca8dcac3d9a8d479') in 0.022221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.415331 seconds.
+  path: Assets/avatar/Avatars/assets avatars/Materials/Avatar2.mat
+  artifactKey: Guid(de8de76c3ef3ff14598f67dea86a6d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/avatar/Avatars/assets avatars/Materials/Avatar2.mat using Guid(de8de76c3ef3ff14598f67dea86a6d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d917b1096c9e57312278e9ccfccf430') in 0.021603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Mains/mainsBase/materiaux/Avatar3.mat
+  artifactKey: Guid(0f2cae6342edd5d4e921d23b40ec716a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Mains/mainsBase/materiaux/Avatar3.mat using Guid(0f2cae6342edd5d4e921d23b40ec716a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a80837aaf3e9924c2782684338a9ac2') in 0.017347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/avatar/Avatars/assets avatars/Materials/Avatar4.mat
+  artifactKey: Guid(0d25e1732ca505248831830cfe1e9583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/avatar/Avatars/assets avatars/Materials/Avatar4.mat using Guid(0d25e1732ca505248831830cfe1e9583) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9daab1eca9a9c95de3d6b80afa4797d0') in 0.019183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/avatar/Avatars/assets avatars/Materials/Avatar5.mat
+  artifactKey: Guid(593ab5ced9bab3043bbe912883e4e07f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/avatar/Avatars/assets avatars/Materials/Avatar5.mat using Guid(593ab5ced9bab3043bbe912883e4e07f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856e9d35be684ca63c023ff8061344a0') in 0.019651 seconds 
