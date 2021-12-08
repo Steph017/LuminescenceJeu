@@ -4,15 +4,17 @@ using UnityEngine;
 
 public class Calendrier : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
+    public GameObject cam;
+    public float distance;
     void Update()
     {
-        
+        Vector3 laPosition = cam.transform.position + cam.transform.forward * distance;
+        laPosition.y = 1f;
+        transform.position = laPosition;
+        Quaternion laRotation = cam.transform.rotation;
+        laRotation.x = 0f;
+        laRotation.z = 0f;
+        transform.rotation = laRotation;
     }
 }
