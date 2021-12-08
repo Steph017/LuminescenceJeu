@@ -6,15 +6,15 @@ public class OuvertureCalendrier : MonoBehaviour
 
 {
 
-    public GameObject objetExplosion;
+    
 
     void OnCollisionEnter(Collision infoCollision) // le type de la variable est Collision
     {
-        Debug.Log(infoCollision.gameObject.name);
+        
 
-        if (infoCollision.gameObject.name == "RightHand Controller")
+        if (infoCollision.gameObject.name == "ZONE1")
         {
-            objetExplosion.SetActive(true);
+            Debug.Log(infoCollision.gameObject.name);
 
         }
     }
