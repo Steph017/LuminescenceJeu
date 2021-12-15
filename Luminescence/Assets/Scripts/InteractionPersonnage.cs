@@ -10,7 +10,7 @@ public class InteractionPersonnage : MonoBehaviour
 
     void OnCollisionEnter(Collision infoCollision) // le type de la variable est Collision
     {
-        Debug.Log(infoCollision.gameObject.name);
+       
 
         if (infoCollision.gameObject.name == "Avatar3")
         {

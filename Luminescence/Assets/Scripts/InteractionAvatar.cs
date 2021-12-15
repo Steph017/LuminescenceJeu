@@ -7,14 +7,14 @@ using UnityEngine;
 public class InteractionAvatar : MonoBehaviour
 {
 
-    public GameObject Cube;
+    public GameObject lumiereCadeaux;
 
     // Start is called before the first frame update
     void OnCollisionEnter(Collision InteractionCollision)
     {
-        if(InteractionCollision.gameObject.name == "collision")
+        if(InteractionCollision.gameObject.name == "ZoneCadeau")
         {
-            Cube.SetActive(true);
+            lumiereCadeaux.SetActive(true);
             Debug.Log("Hello: " + gameObject.name);
         }
     }
