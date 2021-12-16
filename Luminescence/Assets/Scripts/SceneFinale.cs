@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SceneFinale : MonoBehaviour
 {
@@ -31,8 +32,15 @@ public class SceneFinale : MonoBehaviour
         if (other.CompareTag("25") && Mitaine == true)
         {
             Debug.Log("Trajet fini");
+            Invoke("ChangementScene", 2f);
 
         }
 
     }
+
+    public void ChangementScene()
+    {
+        SceneManager.LoadScene("FIN");
+    }
 }
+
